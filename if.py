@@ -1,1 +1,1 @@
-test
+print("if 공부해")
